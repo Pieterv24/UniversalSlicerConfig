@@ -1,3 +1,5 @@
+[![AGPL-3.0 Licensed](https://img.shields.io/github/license/pieterv24/UniversalSlicerConfig.svg)](https://github.com/pieterv24/UniversalSlicerConfig/blob/master/LICENSE.txt)
+
 > [!CAUTION]
 > This project is a WIP, and is subject to significant change or abandonment without notice.
 
